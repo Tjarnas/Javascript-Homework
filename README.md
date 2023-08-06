@@ -9,3 +9,16 @@
 - Request user’s name, age, country of birth and display them in the console in different lines with different colors to be easily visible
 - Ask 10 questions and display the answers in a short text in an alert
 - Show in the console what is going to be your age in 2025, 2029 and 2050, using a single variable 
+
+
+**Homework Javascript 02**
+*July 27th - 2023*
+
+- Request a username and show a greeting using string template 
+- Request names and ages for two children. Check if child 1 is older and if its name is Tim
+- Request a color and check if the color is on the flag of the Republic of South Africa
+- Request a number and check if it is an odd number
+- Request two numbers, divide them and the result must be an integer(whole number)
+- Request date of birth, calculate age and show if the person is over 18
+- Declare a variable without initializing it and check if it is of type null or undefined
+- Request a number, check if it is a number and if it is between 10 and 50
