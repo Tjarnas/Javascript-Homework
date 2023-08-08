@@ -22,3 +22,14 @@
 - Request date of birth, calculate age and show if the person is over 18
 - Declare a variable without initializing it and check if it is of type null or undefined
 - Request a number, check if it is a number and if it is between 10 and 50
+
+**Homework JavaScript 03**
+*July 29th - 2023*
+
+- Write a program that requests a number from a user and finds the summation of every number from 1 to num. For example, for number 4 it is 1 + 2 + 3 + 4 = 10.
+- Request two numbers and find only their largest common divisor.
+- Request a number and display all the divisors of it. For example, for number 8 it would be 2, 4, and 8.
+- Define the number of digits in a requested number. For example, there are 4 digits in the number 6834.
+- Request 10 numbers from a user and count, how many are positive, negative, or zero. Also, count odd and even. Display the statistics. There’s only one variable (not 10) needed for input by a user. 
+- Request favourite fruit from user. If it is Peach, Apple or Banana show message that it is your favourite food, if it is Pear or Grapefruit show message that you hate it otherwise show message that you have not tried this fruit
+- Request a number and check if the number is odd, even or zero. Use switch.
