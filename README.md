@@ -47,3 +47,39 @@
 - Write a function that accepts hours, minutes, and seconds and returns that time only in seconds. For example, 1 hour 25 minutes 43 seconds returns 5145 seconds.
 - Write a function that accepts the number of seconds, translates it into hours, minutes, and seconds, and returns as a hh:mm:ss string.
 - Write a function that counts the difference between the dates. The function accepts 6 parameters that describe 2 dates, and returns them as hh:mm:ss. While solving this problem use the functions from the two previous ones: at first, make the dates in seconds, count the difference in seconds, and translate it back into hh:mm:ss.
+
+**Homework Javascript 05**
+*August 3rd - 2023*
+
+- Create an object that describes a car (manufacturer, model, year of release, average speed) and the following methods for working with this object:
+
+* A method that displays the car info 
+* A method for counting a time frame necessary to cover a given distance with the average speed. Note that every 4 hours the driver has to take a 1-hour break.
+
+- Create an object that contains separately the numerator and the denominator of a fraction, and the following functions for working with this object:
+
+* A function for adding two fraction objects.
+* A function for subtracting two fraction objects.
+* A function for multiplying two fraction objects.
+* A function for dividing two fraction objects.
+* A function for simplifying a fraction object. 
+
+- Create an object that describes time (hours, minutes, seconds), and the following methods for working with this object: 
+
+* A method for displaying the time. 
+* A method for changing the time by a given amount of seconds. 
+* A method for changing the time by a given amount of minutes.  
+* A method for changing the time by a given amount of hours. 
+Note that in the last three methods changing one part may influence another. For example, if we add 30 seconds to «20:30:45», we should get «20:31:15», not «20:30:75».
+
+- Create 5 dogs - John, Ivan, Teddy, Rocco and Sparky. All of them should have unique ids, ages and addresses. Show which is the oldest and which is the youngest.
+
+- Use the previous objects and show a list with their names and ages.
+
+- Create 2 people - Joye and Rachel. They have to have age and a greeting which will say “Hi, my name is  <NAME> and I am <AGE> old. Nice to meet you!”
+
+- Create an object circle with a property radius and a method calculateArea. The calculateArea method should calculate and return the area of the circle using the formula: area = π * radius^2. Now, create another object smallCircle with its own radius, and use the bind method to bind the calculateArea method from circle to smallCircle. Call the calculateArea method on smallCircle and print the area.
+
+- Create an object with properties. These properties cannot be deleted.
+
+- Create an object with properties. These properties cannot be changed.
