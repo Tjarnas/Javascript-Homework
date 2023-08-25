@@ -83,3 +83,25 @@ Note that in the last three methods changing one part may influence another. For
 - Create an object with properties. These properties cannot be deleted.
 
 - Create an object with properties. These properties cannot be changed.
+
+**Homework JavaScript 06**
+*August 5th - 2023*
+
+- Ask user for age, if user is below 18, display a warning message that he is underaged, if he is over show him alcohol page
+- Add this list to your page:
+
+    <div class="container">
+        <ul class="list">
+            <li class="item">Dave</li>
+            <li class="item">John</li>
+            <li class="item">Ivan</li>
+            <li class="item">Sam</li>
+            <li class="item">Mel</li>
+            <li class="item">Diana</li>
+        </ul>
+    </div>
+
+- Add background color to each odd row
+- Add Smith, Jeff and Larry in the top, middle and end of the list
+- Remove Mel
+- Add a row that says that Mel has been removed form the list
