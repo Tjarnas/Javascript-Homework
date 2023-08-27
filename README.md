@@ -1,4 +1,4 @@
-**Homework Javascript 01**
+**Homework Javascript 01 - Introduction**
 *July 25th - 2023*
 
 - Request a user’s name and display the response “Hello, [name]”.
@@ -11,7 +11,7 @@
 - Show in the console what is going to be your age in 2025, 2029 and 2050, using a single variable 
 
 
-**Homework Javascript 02**
+**Homework Javascript 02 - Data Types & Math Functions**
 *July 27th - 2023*
 
 - Request a username and show a greeting using string template 
@@ -23,7 +23,7 @@
 - Declare a variable without initializing it and check if it is of type null or undefined
 - Request a number, check if it is a number and if it is between 10 and 50
 
-**Homework JavaScript 03**
+**Homework JavaScript 03 - Loops and Conditions**
 *July 29th - 2023*
 
 - Write a program that requests a number from a user and finds the summation of every number from 1 to num. For example, for number 4 it is 1 + 2 + 3 + 4 = 10.
@@ -34,7 +34,7 @@
 - Request favourite fruit from user. If it is Peach, Apple or Banana show message that it is your favourite food, if it is Pear or Grapefruit show message that you hate it otherwise show message that you have not tried this fruit
 - Request a number and check if the number is odd, even or zero. Use switch.
 
-**Homework JavaScript 04**
+**Homework JavaScript 04 - Functions**
 *August 1st - 2023*
 
 - Write a function that accepts 2 numbers and returns -1 if the first one is smaller than the second, 1 if it is vice versa, and 0 if they are equal.
@@ -48,7 +48,7 @@
 - Write a function that accepts the number of seconds, translates it into hours, minutes, and seconds, and returns as a hh:mm:ss string.
 - Write a function that counts the difference between the dates. The function accepts 6 parameters that describe 2 dates, and returns them as hh:mm:ss. While solving this problem use the functions from the two previous ones: at first, make the dates in seconds, count the difference in seconds, and translate it back into hh:mm:ss.
 
-**Homework Javascript 05**
+**Homework Javascript 05 - Objects**
 *August 3rd - 2023*
 
 - Create an object that describes a car (manufacturer, model, year of release, average speed) and the following methods for working with this object:
@@ -84,7 +84,7 @@ Note that in the last three methods changing one part may influence another. For
 
 - Create an object with properties. These properties cannot be changed.
 
-**Homework JavaScript 06**
+**Homework JavaScript 06 - DOM (Document Object Model)**
 *August 5th - 2023*
 
 - Ask user for age, if user is below 18, display a warning message that he is underaged, if he is over show him alcohol page
@@ -105,3 +105,19 @@ Note that in the last three methods changing one part may influence another. For
 - Add Smith, Jeff and Larry in the top, middle and end of the list
 - Remove Mel
 - Add a row that says that Mel has been removed form the list
+
+**Homework JavaScript 07 - Array**
+*August 8th - 2023*
+
+- Create a “groceries list” array. Each element of the array is an object that contains the name of a product, an amount needed and whether it is bought or not. Write a few functions for working with this array. 
+
+Display the entire list, so that the not yet purchased items go before the bought ones. 
+
+- Adding a purchase to the list. Note that if a product already exists, the amount needs to be increased in the existing purchase, not in a new one. Purchasing a product. The function accepts the name of a product and marks it as bought.
+
+- Create an array that describes a shop receipt. Each element of the array consists of the name of the product, an amount bought, and price per item. Write the following functions. 
+
+01. Print the receipt out on the screen.
+02. Counting the sum of the purchase.
+03. Extracting the most expensive item on the receipt.
+04. Counting an average item price on the receipt.
