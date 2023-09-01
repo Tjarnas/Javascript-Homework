@@ -121,3 +121,10 @@ Display the entire list, so that the not yet purchased items go before the bough
 02. Counting the sum of the purchase.
 03. Extracting the most expensive item on the receipt.
 04. Counting an average item price on the receipt.
+
+**Homework JavaScript 08 - Events**
+*August 10th - 2023*
+
+- Create a functional calculator; it should be able to subtract, sum, divide and multiple numbers. Also every symbol must be shown on the screen
+
+- Create a song list generator; User should be able to input song name, artist and runtime. Also should be able to delete song from list and see runtime in details below song name and artist when clicking on the row. See example below:
