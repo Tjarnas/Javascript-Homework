@@ -48,14 +48,14 @@ addGlobalEventListener("click", ".operator", e => {
   displayValue = "";
   display.textContent = operatorStorage;
   console.log(operatorStorage)
-  console.log(valueStorage);
 })
 
 // Compute/Equals
 addGlobalEventListener("click", ".equals", e => {
   result += valueStorage + operatorStorage + displayValue;
+  if (displayValue === "") return (displayValue = "");
   displayValue = eval(result);
-  display.textContent = displayValue + " =";
+  display.textContent = displayValue;
   console.log(displayValue);
 })
 
