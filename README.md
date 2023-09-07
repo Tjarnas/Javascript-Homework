@@ -128,3 +128,14 @@ Display the entire list, so that the not yet purchased items go before the bough
 - Create a functional calculator; it should be able to subtract, sum, divide and multiple numbers. Also every symbol must be shown on the screen
 
 - Create a song list generator; User should be able to input song name, artist and runtime. Also should be able to delete song from list and see runtime in details below song name and artist when clicking on the row. See example below:
+
+**Homeork Javascript 09 - Ajax**
+*August 12th - 2023*
+
+- Create a promise that resolves to the string "Hello, Promises!"
+
+- Create a function that returns a promise. The promise should resolve after a random delay (between 1 to 5 seconds) with a message like "Promise resolved after X seconds".
+
+- Ask a user to submit an artist name and song and after 2 seconds add it to the screen
+
+- Ask a user for age, if the input is not a number or a number over 120 or below 0, show error in console, else print in on the page with a welcome message
