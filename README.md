@@ -129,7 +129,7 @@ Display the entire list, so that the not yet purchased items go before the bough
 
 - Create a song list generator; User should be able to input song name, artist and runtime. Also should be able to delete song from list and see runtime in details below song name and artist when clicking on the row. See example below:
 
-**Homeork Javascript 09 - Ajax**
+**Homework Javascript 09 - Ajax**
 *August 12th - 2023*
 
 - Create a promise that resolves to the string "Hello, Promises!"
@@ -139,3 +139,11 @@ Display the entire list, so that the not yet purchased items go before the bough
 - Ask a user to submit an artist name and song and after 2 seconds add it to the screen
 
 - Ask a user for age, if the input is not a number or a number over 120 or below 0, show error in console, else print in on the page with a welcome message
+
+**Homework 10 - JQuary**
+*August 15th - 2023*
+
+- Create a rectangle and make it move to all edges of the page after a button has been clicked
+- Create a functioning calculator using jQuery
+- Create a simple to-do list page using jQuery. Allow users to add and remove tasks. Each task should have a checkbox to mark it as complete. Change style of row when task is marked as complete
+- Create a list of items(any topic) and on hover show details on each row
